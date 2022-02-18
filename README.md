@@ -25,6 +25,9 @@ git push -u origin main
 # Step - 2 Base Setup
 - Open Project to Text Editor
 - Add .gitignore file
+- - Add node_modules in .gitignore file
+
+## Add React and typescript in our project
 ### Run terminal
 
 #### React JS 
@@ -41,9 +44,7 @@ npx create-react-app my-app --template typescript
 
 yarn create react-app my-app --template typescript
 ```
-- Add node_modules in .gitignore file
-### Add React and typescript in our project
-#### Run terminal
+
 ```
 npm install --save typescript @types/node @types/react @types/react-dom @types/jest
 
