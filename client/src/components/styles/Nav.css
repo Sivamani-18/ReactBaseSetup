@@ -1,0 +1,15 @@
+.nav-menu {
+  width: 100%;
+  min-height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #004d8c;
+}
+.nav-menu a {
+  color: #ffffff;
+  text-decoration: none;
+}
+.submenu {
+  background-color: #003a69;
+}
